@@ -45,5 +45,21 @@ namespace Enquiry.api.Controllers
                 return NotFound("Service Not Found with id " + serviceId);
             }
         }
+
+        [HttpDelete]
+        public IActionResult DeleteServiceById(int serviceId)
+        {
+            var oldServiceData = _context.Services.SingleOrDefault(x => x.ServiceId == serviceId);
+            if (oldServiceData != null)
+            {
+                _context.Services.Remove(oldServiceData);
+                _context.SaveChanges();
+                return Ok("Service Deleted Success");
+            }
+            else
+            {
+                return NotFound("Service Not Found with id " + serviceId);
+            }
+        }
     }
 }
