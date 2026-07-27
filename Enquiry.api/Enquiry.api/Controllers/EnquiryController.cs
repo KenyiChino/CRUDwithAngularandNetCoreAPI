@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Enquiry.api.Models;
+using Microsoft.AspNetCore.Cors;
 
 namespace Enquiry.api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowAngular")]
     public class EnquiryController : ControllerBase
     {
         private readonly EnquiryDbContext _context;
@@ -36,7 +38,8 @@ namespace Enquiry.api.Controllers
                                     enquiry.EnquoryDate,
                                     enquiry.Status,
                                     service.ServiceName,
-                                    service.Rate
+                                    service.Rate,
+                                    enquiry.Message
                                 }).ToListAsync();
             return Ok(result);
         }

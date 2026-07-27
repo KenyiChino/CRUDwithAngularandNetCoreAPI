@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{ED10E205-15E0-4B83-8F96-0279999E98BE}|Enquiry.api\\Enquiry.api.csproj|solutionrelative:enquiry.api\\controllers\\enquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ED10E205-15E0-4B83-8F96-0279999E98BE}|Enquiry.api\\Enquiry.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto161\\enquiry.api\\enquiry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10E205-15E0-4B83-8F96-0279999E98BE}|Enquiry.api\\Enquiry.api.csproj|solutionrelative:enquiry.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED10E205-15E0-4B83-8F96-0279999E98BE}|Enquiry.api\\Enquiry.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto161\\enquiry.api\\enquiry.api\\controllers\\servicemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED10E205-15E0-4B83-8F96-0279999E98BE}|Enquiry.api\\Enquiry.api.csproj|solutionrelative:enquiry.api\\controllers\\servicemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED10E205-15E0-4B83-8F96-0279999E98BE}|Enquiry.api\\Enquiry.api.csproj|c:\\users\\tuf\\desktop\\proyectosgithub\\proyecto161\\enquiry.api\\enquiry.api\\models\\enquirymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10E205-15E0-4B83-8F96-0279999E98BE}|Enquiry.api\\Enquiry.api.csproj|solutionrelative:enquiry.api\\models\\enquirymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto161\\Enquiry.api\\Enquiry.api\\Program.cs",
+              "RelativeDocumentMoniker": "Enquiry.api\\Program.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto161\\Enquiry.api\\Enquiry.api\\Program.cs",
+              "RelativeToolTip": "Enquiry.api\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T02:58:26.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnquiryMaster.cs",
+              "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto161\\Enquiry.api\\Enquiry.api\\Models\\EnquiryMaster.cs",
+              "RelativeDocumentMoniker": "Enquiry.api\\Models\\EnquiryMaster.cs",
+              "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto161\\Enquiry.api\\Enquiry.api\\Models\\EnquiryMaster.cs",
+              "RelativeToolTip": "Enquiry.api\\Models\\EnquiryMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T02:06:23.01Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +62,20 @@
               "RelativeDocumentMoniker": "Enquiry.api\\Controllers\\EnquiryController.cs",
               "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto161\\Enquiry.api\\Enquiry.api\\Controllers\\EnquiryController.cs",
               "RelativeToolTip": "Enquiry.api\\Controllers\\EnquiryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-26T08:20:59.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ServiceMasterController.cs",
               "DocumentMoniker": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto161\\Enquiry.api\\Enquiry.api\\Controllers\\ServiceMasterController.cs",
               "RelativeDocumentMoniker": "Enquiry.api\\Controllers\\ServiceMasterController.cs",
               "ToolTip": "C:\\Users\\TUF\\Desktop\\PROYECTOSGITHUB\\Proyecto161\\Enquiry.api\\Enquiry.api\\Controllers\\ServiceMasterController.cs",
               "RelativeToolTip": "Enquiry.api\\Controllers\\ServiceMasterController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-26T03:10:39.591Z",
               "EditorCaption": ""
